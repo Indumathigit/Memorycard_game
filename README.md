@@ -52,19 +52,7 @@ WIN: Match all 8 pairs → celebration alert! 🎉
 RESTART: Click button to shuffle + play again
 
 
-🎯 How To Play
 
-Cards auto-shuffle when game starts
-
-Click any card to flip (max 2 cards at once)
-
-MATCH: Both cards stay flipped ✅
-
-MISMATCH: Cards shake → flip back after 1 second ❌
-
-WIN: Match all 8 pairs → celebration alert! 🎉
-
-RESTART: Click button to shuffle + play again
 
 
 🤝 Author
