@@ -27,23 +27,15 @@ text
 HTML5          - Semantic structure + responsive layout
 CSS3           - CSS Grid, 3D transforms, animations  
 JavaScript ES6 - DOM manipulation, event handling, game logic
-📱 Screenshots
-text
-Desktop View              | Mobile View
-──────────────────────────┼──────────────────
-┌─────────────────────┐   │ ┌─────────────┐
-│  🧠 Memory Game     │   │ │ 🧠 Memory  │
-│  [RESTART]          │   │ │ [RESTART] │
-│  ┌──┐ ┌──┐ ┌──┐    │   │ │ ┌──┐┌──┐ │
-│  │  │ │  │ │  │ ... │   │ │ │?││?│ │
-│  └──┘ └──┘ └──┘    │   │ │ └──┘└──┘ │
-└─────────────────────┘   │ └─────────────┘
+
 🚀 Quick Setup
 bash
-# 1. Download all files
-# 2. Add your images to assets/ folder (img1.avif - img8.avif)
-# 3. Open index.html in any browser
-# NO build tools required!
+1. Download all files
+2. Add your images to assets/ folder (img1.avif - img8.avif)
+3. Open index.html in any browser
+4  NO build tools required!
+
+   
 3 seconds setup → instant playable game
 
 🎯 How To Play
