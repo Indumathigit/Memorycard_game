@@ -51,16 +51,6 @@ WIN: Match all 8 pairs → celebration alert! 🎉
 
 RESTART: Click button to shuffle + play again
 
-🚀 Quick Setup
-bash
-# 1. Download all files
-# 2. Add your images to assets/ folder (img1.avif - img8.avif)
-# 3. Open index.html in any browser
-# NO build tools required!
-
-
-🎮 Open index.html → Play immediately!
-
 
 🎯 How To Play
 
